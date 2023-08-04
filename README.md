@@ -4,8 +4,8 @@
 
 Projeto foi desenvolvido com:
 
-### -HTML
+### - HTML
 
-### -CSS
+### - CSS
 
 O projeto foi feito todo responsivo, está adaptado para desktop e mobile.
