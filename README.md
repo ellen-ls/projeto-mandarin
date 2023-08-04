@@ -9,3 +9,5 @@ Projeto foi desenvolvido com:
 ### - CSS
 
 O projeto foi feito todo responsivo, está adaptado para desktop e mobile.
+
+Link deploy: https://ellen-ls.github.io/projeto-mandarin/
